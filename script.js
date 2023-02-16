@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-var wordList = ["Restitution", "Rehabilitation", "Dissemination", "Expansive", "Magnitude", "Writhing", "Contempt"];
+var wordList = ["Restitution", "Rehabilitation", "Dissemination ", "Expansive", "Magnitude ", "Writhing", "Contempt", "Thrumming ", "Intermittent ", "Iridescent ", "Comprehensive ", "Conniving ", "Recoiled ", "Condescension", "Intricacies ", "Skittering", "Mimicry", "Calibrating", "Taut", "Resonant ", "Galvanizing ", "Incongruous ", "Dissociate"];
 var i = 0,
     j = 1;
 
