@@ -53,7 +53,6 @@ window.onload = function () {
             .then((response) => response.text())
             .then((data) => {
                 JSON.stringify(data);
-                console.warn(i);
                 document.querySelectorAll("p")[j].textContent = data.substring(data.indexOf('"text":') + 8, data.indexOf(',"id"') - 1);
             });
         j += 2;
